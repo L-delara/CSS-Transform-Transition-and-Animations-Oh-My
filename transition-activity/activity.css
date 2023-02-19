@@ -1,1 +1,17 @@
+button {
+  background-color: ghostwhite;
+  color: black;
+  border: none;
+}
 
+button:hover {
+  background-color: cornflowerblue;
+  color: ghostwhite;
+  border: none;
+  transition: 200ms ease-in-out;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+}
